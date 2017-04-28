@@ -11,4 +11,4 @@ Please read the file [INSTALL-git](INSTALL-git.md) for installation instructions
 
 The user discussion and development of strace take place on [the strace mailing list](https://lists.sourceforge.net/lists/listinfo/strace-devel) -- everyone is welcome to post bug reports, feature requests, comments and patches to strace-devel@lists.sourceforge.net.  The mailing list archives are available at https://sourceforge.net/p/strace/mailman/strace-devel/  and other archival sites.
 
-[![Build Status](https://travis-ci.org/strace/strace.svg?branch=master)](https://travis-ci.org/strace/strace) [![Code Coverage](https://codecov.io/github/strace/strace/coverage.svg?branch=master)](https://codecov.io/github/strace/strace?branch=master)
+[![Build Status](https://travis-ci.org/ronignc/strace.svg?branch=master)](https://travis-ci.org/ronignc/strace)
